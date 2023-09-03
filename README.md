@@ -1,4 +1,4 @@
-![Banner Image](korze84/blob/main/1500x500.jpg)
+![Banner Image](korze84/korze84/blob/main/1500x500.jpg)
 
 👋 Hi, I’m @korze84
 
