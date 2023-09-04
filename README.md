@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @korze84
 
-A passionate software developer with a penchant for constantly exploring the vast landscape of technology. Having worked in the tech industry for over 15 years, I believe in the power of collaboration and open-source contribution.
+A passionate software developer with a penchant for constantly exploring the vast landscape of technology. Having worked in the tech industry since around 2008, I believe in the power of collaboration and open-source contribution.
 
 👀 I’m interested in ...
 
