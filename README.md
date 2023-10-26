@@ -25,5 +25,5 @@ A passionate software developer with a penchant for constantly exploring the vas
 
 📫 How to reach me ...
 
-    Email: korze84@email.com
+    Email: korze84@proton.me
     Twitter: @korzewarrior
